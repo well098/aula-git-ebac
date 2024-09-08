@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Wellington Monteiro
+-Profissão: QA
+-Cidade: Itu
+-O que faz nas horas vaga: estudo
+-Feedback sobre o curso Qualidade de Software: atendeu as expectativas
+-Feedback sobre a plataforma de estudo da EBAC: otima plataforma e facil de entender.
+
+Obrigado!!!
+
+
